@@ -5,6 +5,20 @@ This repository contains information and documentation about various tools and s
 ## Contents
 
 - **TERMIUS_STUDENT_INFO.md** - Information about Termius student education program and how students can access Premium features for free
+- **GITHUB_EDUCATION_FREE_RESOURCES.md** - Comprehensive list of 100+ free tools and services available to students through GitHub Education and other programs
+
+## About GitHub Education
+
+GitHub Education offers students access to over 100 premium tools and services for free! Check out [GITHUB_EDUCATION_FREE_RESOURCES.md](GITHUB_EDUCATION_FREE_RESOURCES.md) for the complete list including:
+- Development tools (JetBrains IDEs, Visual Studio, GitHub Copilot)
+- Cloud services (Azure, DigitalOcean, Heroku)
+- Learning platforms (DataCamp, Frontend Masters, Educative)
+- Design tools (Canva Pro, Figma)
+- And many more!
+
+**Quick link:** https://education.github.com/pack
+
+---
 
 ## About Termius Student Program
 
