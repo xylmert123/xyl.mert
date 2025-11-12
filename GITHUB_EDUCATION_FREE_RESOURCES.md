@@ -89,9 +89,10 @@ GitHub Education, öğrencilere **GitHub Student Developer Pack** aracılığıy
 
 #### 🎨 **Tasarım Araçları**
 
-1. **Canva Pro**
+1. **Canva Pro** ⭐
    - 12 ay ücretsiz
    - Grafik tasarım aracı
+   - **📖 Detaylı kullanım kılavuzu:** [CANVA_PRO_GUIDE.md](CANVA_PRO_GUIDE.md)
 
 2. **Figma**
    - Öğrenci lisansı
@@ -226,9 +227,10 @@ GitHub Education offers students **over 100 free tools and services** through th
 
 #### 🎨 **Design Tools**
 
-1. **Canva Pro**
+1. **Canva Pro** ⭐
    - 12 months free
    - Graphic design tool
+   - **📖 Detailed usage guide:** [CANVA_PRO_GUIDE.md](CANVA_PRO_GUIDE.md)
 
 2. **Figma**
    - Student license
