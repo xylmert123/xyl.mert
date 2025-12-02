@@ -53,12 +53,14 @@ GitHub Education, öğrencilere **GitHub Student Developer Pack** aracılığıy
    - Hobby tier ücretsiz
    - Web uygulaması hosting
 
-4. **Namecheap**
+4. **Namecheap** ⭐
    - 1 yıl ücretsiz .me domain
    - 1 yıl SSL sertifikası
+   - **📖 Detaylı domain kılavuzu:** [FREE_DOMAIN_GUIDE.md](FREE_DOMAIN_GUIDE.md)
 
-5. **Name.com**
+5. **Name.com** ⭐
    - 1 yıl ücretsiz domain
+   - **📖 Detaylı domain kılavuzu:** [FREE_DOMAIN_GUIDE.md](FREE_DOMAIN_GUIDE.md)
 
 #### 🛠️ **Terminal ve SSH**
 
@@ -191,12 +193,14 @@ GitHub Education offers students **over 100 free tools and services** through th
    - Free Hobby tier
    - Web application hosting
 
-4. **Namecheap**
+4. **Namecheap** ⭐
    - 1 year free .me domain
    - 1 year SSL certificate
+   - **📖 Detailed domain guide:** [FREE_DOMAIN_GUIDE.md](FREE_DOMAIN_GUIDE.md)
 
-5. **Name.com**
+5. **Name.com** ⭐
    - 1 year free domain
+   - **📖 Detailed domain guide:** [FREE_DOMAIN_GUIDE.md](FREE_DOMAIN_GUIDE.md)
 
 #### 🛠️ **Terminal and SSH**
 
